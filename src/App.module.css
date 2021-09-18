@@ -1,0 +1,12 @@
+body {
+  background-color: #ecfee8;
+}
+
+.container {
+  display: flex;
+}
+
+.image {
+  width: 300px;
+  margin-top: 30px;
+}
