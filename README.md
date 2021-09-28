@@ -1,6 +1,8 @@
 # covid-19-tracker  =>  [React js]
 covid 19 tracker web app. 🌱
 
+API used: https://covid19.mathdro.id/api
+
 
 ## Set-up
 1. **git clone https://github.com/Eddievin/covid-19-tracker.git**
