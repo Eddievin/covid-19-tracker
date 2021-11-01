@@ -2,6 +2,8 @@
 This project is made on ReactJS with the help of covid19 API. Simple tracker for Covid-19 cases and deaths. <br>
 ⭐ API used for this project - https://covid19.mathdro.id/api
 
+![image](https://user-images.githubusercontent.com/47072868/139575228-57246c42-ad8f-4e76-a695-4c03934bb57a.png)
+
 # What is Covid-19 ?
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some become seriously ill and require medical attention.Almost every corner of world is under this disease 
 
